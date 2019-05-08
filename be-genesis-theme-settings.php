@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: BE Genesis Theme Settings
- * Plugin URI:  https://github.com/billerickson/
+ * Plugin URI:  https://github.com/billerickson/BE-Genesis-Theme-Settings
  * Description: Access the theme settings page without redirecting to customizer
  * Author:      Bill Erickson
  * Author URI:  https://www.billerickson.net
- * Version:     1.1.0
+ * Version:     1.0.0
  */
 
 /**
