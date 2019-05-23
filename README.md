@@ -1,4 +1,4 @@
-# BE Genesis Theme Settings
+# Disable Genesis Customizer Redirect
 
 **Contributors:** billerickson  
 **Requires at least:** 5.1  
@@ -11,7 +11,7 @@ Access the theme settings page without redirecting to customizer.
 
 ### Installation Instructions
 
-1. Download the [plugin zip file](https://github.com/billerickson/BE-Genesis-Theme-Settings/archive/master.zip)
+1. Download the [plugin zip file](https://github.com/billerickson/Disable-Genesis-Customizer-Redirect/archive/master.zip)
 2. Go to Plugins > Add New
 3. Click "Upload" in top left corner
 4. Upload the plugin and activate
