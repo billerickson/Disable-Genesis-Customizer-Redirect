@@ -13,7 +13,8 @@
  *
  */
 function be_disable_genesis_redirect() {
-	global $_genesis_admin_settings;
+	global $_genesis_admin_settings, $_genesis_admin_seo_settings;
 	$_genesis_admin_settings->redirect_to = false;
+	$_genesis_admin_seo_settings->redirect_to = false;
 }
-add_action( 'genesis_admin_menu', 'be_disable_genesis_redirect', 1 );
+add_action( 'genesis_admin_menu', 'be_disable_genesis_redirect', 11 );
