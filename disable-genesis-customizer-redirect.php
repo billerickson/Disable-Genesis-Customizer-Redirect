@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: BE Genesis Theme Settings
- * Plugin URI:  https://github.com/billerickson/BE-Genesis-Theme-Settings
+ * Plugin Name: Disable Genesis Customizer Redirect
+ * Plugin URI:  https://github.com/billerickson/Disable-Genesis-Customizer-Redirect
  * Description: Access the theme settings page without redirecting to customizer
  * Author:      Bill Erickson
  * Author URI:  https://www.billerickson.net
